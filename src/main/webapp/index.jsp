@@ -1,5 +1,7 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h1>Hello World!</h1>
+<h2>Welcome Buddy</h2>
+<h2>This web app is from github project</h2>
 </body>
 </html>
